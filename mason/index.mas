@@ -1,7 +1,7 @@
 
-Welcome to CocoBase!
+<h1>Welcome to CocoBase!</h1>
 
 <br />
 <br />
-
+<& homepage/carousel.mas &>
 This is the best site ever!
